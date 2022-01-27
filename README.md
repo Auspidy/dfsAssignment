@@ -1,7 +1,6 @@
 # dfsAssignment
 Using git as a part of the assignment
 
-
 various commands used for git:
 
 1> git clone https://github.com/Auspidy/dfsAssignment.git
