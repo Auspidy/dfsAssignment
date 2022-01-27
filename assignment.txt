@@ -1,0 +1,22 @@
+For the assignment , you have to choose one from each of the categories  (Pick any 5 categories):
+ 	
+	1. Python web programming (web2py/py4web, django, flask, other)
+	2. Nodejs web programming (express.js, meteor.js, total.js, vanilla node.js -- no framework, other)
+	3. Database (MongoDB, Cassandra, Neo4j, other) 4. Devops/Cloud (Git, Docker, Kubernetis, Minio, Ceph, other)
+	5. Machine Learning Toolkits (scikitlearn, pytorch, tensorflow, other)
+	6. Web technologies (Bootstrap, Foundation, Bulma, AngularJS, ReactJS, Vue, Other)  
+	
+	
+	
+	
+	 
+	 
+	Note : SQL, HTML, CSS and JS can not be used.
+	 
+	Following tasks have to be done as part of the assignment:
+	1) A "Hello World" program i.e. a basic program to show that you are able to implement basic program/ functionalities. 
+	For ex : Build a container using Docker, Implement basic neural net using Pytorch etc.
+	 
+	2) Write a blog explaining the technologies you used, how they perform (comparative) etc.
+	 
+	3) Documentation of the best resources you could find while learning these technologies (Youtube lectures, blogs, books, etc). 
