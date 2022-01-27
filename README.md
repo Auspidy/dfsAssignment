@@ -1,14 +1,20 @@
-# dfsAssignment
-Using git as a part of the assignment
+                  dfsAssignment
+
+===================================================
+
+
 
 various commands used for git:
-1> git clone https://github.com/Auspidy/dfsAssignment.git
-2> git add <file-name> 
-3> git status
-4> git commit -m "message"
-5> git push -u origin master
-6> git pull
-7> git branch <branch-name> 
-8> git checkout <branch-name>
-9> git merge <branch-name>
-10> git reset <file name>
+------------------------------
+
+
+# git clone https://github.com/Auspidy/dfsAssignment.git
+# git add <file-name> 
+# git status
+# git commit -m "message"
+# git push -u origin master
+# git pull
+# git branch <branch-name> 
+# git checkout <branch-name>
+# git merge <branch-name>
+# git reset <file name>
